@@ -1,0 +1,21 @@
+$TTL 1D
+@	IN SOA	@ rname.invalid. (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+	NS	@
+    A   199.232.96.133
+
+favicons  IN  A  199.232.96.133
+camo  IN  A  199.232.96.133
+avatars1  IN  A  199.232.96.133
+user-images  IN  A  199.232.96.133
+avatars2  IN  A  199.232.96.133
+avatars3  IN  A  199.232.96.133
+raw  IN  A  199.232.96.133
+avatars0  IN  A  199.232.96.133
+avatars  IN  A  199.232.96.133
+avatars4  IN  A  199.232.96.133
+avatars5  IN  A  199.232.96.133

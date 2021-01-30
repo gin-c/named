@@ -1,0 +1,14 @@
+$TTL 1D
+@	IN SOA	@ rname.invalid. (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+	NS	@
+	A	140.82.114.3
+
+api  IN  A  140.82.113.6
+codeload  IN  A  140.82.112.10
+gist  IN  A  140.82.114.3
+

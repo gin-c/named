@@ -1,0 +1,11 @@
+$TTL 1D
+@	IN SOA	@ rname.invalid. (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+	NS	@
+    A 151.101.1.6
+github.map  IN  A  199.232.96.133
+github.global.ssl  IN  A  199.232.69.194

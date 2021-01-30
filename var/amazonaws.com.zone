@@ -1,0 +1,13 @@
+$TTL 1D
+@	IN SOA	@ rname.invalid. (
+					0	; serial
+					1D	; refresh
+					1H	; retry
+					1W	; expire
+					3H )	; minimum
+	NS	@
+    A   72.21.206.80
+github-production-release-asset-2e65be.s3  IN  A  52.216.107.188
+github-production-repository-file-5c1aeb.s3  IN  A  52.217.80.164
+github-cloud.s3  IN  A  52.216.128.147
+github-com.s3  IN  A  52.216.236.43

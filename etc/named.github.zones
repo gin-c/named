@@ -1,0 +1,42 @@
+zone "githubusercontent.com" IN {
+        type master;
+        file "githubusercontent.com.zone";
+};
+
+zone "amazonaws.com" IN {
+        type master;
+        file "amazonaws.com.zone";
+};
+
+zone "fastly.net" IN {
+        type master;
+        file "fastly.net.zone";
+};
+
+zone "githubassets.com" IN {
+        type master;
+        file "githubassets.com.zone";
+};
+
+
+zone "githubstatus.com" IN {
+        type master;
+        file "githubstatus.com.zone";
+};
+
+
+zone "github.community" IN {
+        type master;
+        file "github.community.zone";
+};
+
+zone "github.io" IN {
+        type master;
+        file "github.io.zone";
+};
+
+
+zone "github.com" IN {
+        type master;
+        file "github.com.zone";
+};

@@ -1,0 +1,4 @@
+zone "gato.com" IN {
+	type master;
+	file "gato.com.zone";
+};
